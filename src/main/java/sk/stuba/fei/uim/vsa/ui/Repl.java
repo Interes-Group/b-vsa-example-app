@@ -1,6 +1,5 @@
 package sk.stuba.fei.uim.vsa.ui;
 
-import sk.stuba.fei.uim.vsa.cv3.ui.command.*;
 import sk.stuba.fei.uim.vsa.ui.command.*;
 
 import java.util.*;
